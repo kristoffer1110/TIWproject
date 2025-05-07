@@ -32,3 +32,5 @@ public class ConnectionTester extends HttpServlet {
 	}
 }
 /**Test push Siri **/
+
+/**Test push Super Kule Sara **/
